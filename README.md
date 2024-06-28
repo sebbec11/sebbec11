@@ -3,9 +3,9 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Project 1</b>
-  - [Project Title](Provide Link Here)
+  - [Project Title](Provide Repository Link Here)
 - <b>Project 2</b>
-  - [Project Title](Provide Link Here)
+  - [Project Title](Provide Repository Link Here)
 
 <h2>🤳Connect with me:</h2>
 
