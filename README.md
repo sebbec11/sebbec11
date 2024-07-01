@@ -4,8 +4,6 @@
 
 - <b>US Household Income Analysis</b>
   - https://github.com/sebbec11/US_Household_Income
-- <b>Project 2</b>
-  - [Project Title](Provide Repository Link Here)
 
 <h2>🤳Connect with me:</h2>
 
