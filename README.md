@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>US Household Income Analysis</b>
-  - (https://github.com/sebbec11/US_Household_Income)
+  - https://github.com/sebbec11/US_Household_Income
 - <b>Project 2</b>
   - [Project Title](Provide Repository Link Here)
 
