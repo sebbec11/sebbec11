@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Project 1</b>
-  - [Project Title] (https://github.com/sebbec11/US_Household_Income)
+- <b>US Household Income Analysis</b>
+  - (https://github.com/sebbec11/US_Household_Income)
 - <b>Project 2</b>
   - [Project Title](Provide Repository Link Here)
 
