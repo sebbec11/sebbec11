@@ -4,6 +4,9 @@
 
 - <b>US Household Income Analysis</b>
   - https://github.com/sebbec11/US_Household_Income
+- <b>Telco Customer Churn</b>
+  - https://public.tableau.com/app/profile/sebastian.becerra7724/viz/ChurnRateDashboard_17197512758910/ChurnRateDashboard
+
 
 <h2>🤳Connect with me:</h2>
 
