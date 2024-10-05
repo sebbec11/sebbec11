@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian, a <a href="https://www.linkedin.com/in/sebastian-becerra-sb">Data Analyst</a></h1>
+<h1>Hi, I'm Sebastian, an <a href="https://www.linkedin.com/in/sebastian-becerra-sb">\ Analyst</a></h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
